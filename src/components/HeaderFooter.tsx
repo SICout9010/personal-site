@@ -13,7 +13,7 @@ function HeaderFooter() {
       </header>
       <Outlet />
       <footer className="font-montserrat flex flex-row gap-10 justify-center items-center w-full h-[45px] bg-[#232323]">
-        <p>Made with ❤️ by SICout9010</p>
+        <p>Made with ❤️ by SICout9010 | PRE-RELEASE V 0.1.1</p>
       </footer>
     </div>
   )
