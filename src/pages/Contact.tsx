@@ -1,7 +1,11 @@
 
 function Contact() {
   return (
-    <div>Contact</div>
+    <main className={`w-full h-full inset-x-0 mx-auto font-montserrat `}>
+      <div>
+        
+      </div>
+    </main>
   )
 }
 
